@@ -21,7 +21,7 @@ dependencies:
   flutter:
     sdk: flutter
   google_api_headers: ^4.0.3
-  http: ^1.2.1
+  http: ^1.5.0
   rxdart: ^0.28.0
   rxdart_ext: ^0.3.0
   listenable_stream: ^2.0.1
